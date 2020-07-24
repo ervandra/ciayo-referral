@@ -1,2 +1,3 @@
-# ciayo-referral
-Referral project
+# CIAYO Referral
+
+CIAYO Referral project

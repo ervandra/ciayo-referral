@@ -1,0 +1,553 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?jrp7gb');
+  src:  url('fonts/icomoon.eot?jrp7gb#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?jrp7gb') format('truetype'),
+    url('fonts/icomoon.woff?jrp7gb') format('woff'),
+    url('fonts/icomoon.svg?jrp7gb#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ic_key_outline:before {
+  content: "\e97b";
+}
+.icon-task-login .path1:before {
+  content: "\e907";
+  color: rgb(0, 0, 0);
+}
+.icon-task-login .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-task-login .path3:before {
+  content: "\e963";
+  margin-left: -1em;
+  color: rgb(255, 174, 0);
+}
+.icon-task-login .path4:before {
+  content: "\e964";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-task-login-disabled .path1:before {
+  content: "\e965";
+  color: rgb(204, 204, 204);
+}
+.icon-task-login-disabled .path2:before {
+  content: "\e966";
+  margin-left: -1em;
+  color: rgb(204, 204, 204);
+}
+.icon-task-login-disabled .path3:before {
+  content: "\e967";
+  margin-left: -1em;
+  color: rgb(153, 153, 153);
+}
+.icon-task-login-disabled .path4:before {
+  content: "\e968";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-task-share .path1:before {
+  content: "\e969";
+  color: rgb(0, 0, 0);
+}
+.icon-task-share .path2:before {
+  content: "\e96a";
+  margin-left: -1em;
+  color: rgb(255, 174, 0);
+}
+.icon-task-share-disabled .path1:before {
+  content: "\e96b";
+  color: rgb(204, 204, 204);
+}
+.icon-task-share-disabled .path2:before {
+  content: "\e96c";
+  margin-left: -1em;
+  color: rgb(153, 153, 153);
+}
+.icon-task-watch-ads .path1:before {
+  content: "\e96d";
+  color: rgb(128, 129, 132);
+}
+.icon-task-watch-ads .path2:before {
+  content: "\e96e";
+  margin-left: -1em;
+  color: rgb(128, 129, 132);
+}
+.icon-task-watch-ads .path3:before {
+  content: "\e96f";
+  margin-left: -1em;
+  color: rgb(255, 174, 0);
+}
+.icon-task-watch-ads .path4:before {
+  content: "\e970";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-task-watch-ads .path5:before {
+  content: "\e971";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-task-watch-ads-disabled .path1:before {
+  content: "\e972";
+  color: rgb(204, 204, 204);
+}
+.icon-task-watch-ads-disabled .path2:before {
+  content: "\e973";
+  margin-left: -1em;
+  color: rgb(204, 204, 204);
+}
+.icon-task-watch-ads-disabled .path3:before {
+  content: "\e974";
+  margin-left: -1em;
+  color: rgb(153, 153, 153);
+}
+.icon-task-watch-ads-disabled .path4:before {
+  content: "\e975";
+  margin-left: -1em;
+  color: rgb(204, 204, 204);
+}
+.icon-task-watch-ads-disabled .path5:before {
+  content: "\e976";
+  margin-left: -1em;
+  color: rgb(204, 204, 204);
+}
+.icon-ic_bf-RL .path1:before {
+  content: "\e900";
+  color: rgb(227, 227, 227);
+}
+.icon-ic_bf-RL .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(153, 153, 153);
+}
+.icon-ic_bf-LR .path1:before {
+  content: "\e902";
+  color: rgb(227, 227, 227);
+}
+.icon-ic_bf-LR .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(153, 153, 153);
+}
+.icon-ic_episode:before {
+  content: "\e904";
+}
+.icon-ic_bf-slide:before {
+  content: "\e905";
+}
+.icon-ic_bf-scroll:before {
+  content: "\e906";
+}
+.icon-ic_logo-ciayo:before {
+  content: "\e909";
+  color: #000;
+}
+.icon-ic_plus:before {
+  content: "\e90a";
+  color: #000;
+}
+.icon-ic_redeem-filed:before {
+  content: "\e90b";
+  color: #000;
+}
+.icon-ic_redeem-outline:before {
+  content: "\e90c";
+  color: #000;
+}
+.icon-home:before {
+  content: "\e90d";
+  color: #000;
+}
+.icon-home-outline:before {
+  content: "\e90e";
+  color: #000;
+}
+.icon-comics:before {
+  content: "\e90f";
+  color: #000;
+}
+.icon-comics-outline:before {
+  content: "\e910";
+  color: #000;
+}
+.icon-challenge:before {
+  content: "\e911";
+  color: #000;
+}
+.icon-challenge-outline:before {
+  content: "\e912";
+  color: #000;
+}
+.icon-subscribed:before {
+  content: "\e913";
+  color: #000;
+}
+.icon-subscribed-outline-menu:before {
+  content: "\e914";
+  color: #000;
+}
+.icon-subscribed-outline:before {
+  content: "\e915";
+  color: #000;
+}
+.icon-schedule:before {
+  content: "\e916";
+  color: #000;
+}
+.icon-schedule-outline:before {
+  content: "\e917";
+  color: #000;
+}
+.icon-blog:before {
+  content: "\e918";
+  color: #000;
+}
+.icon-share:before {
+  content: "\e919";
+  color: #000;
+}
+.icon-search:before {
+  content: "\e91a";
+  color: #000;
+}
+.icon-hamburger:before {
+  content: "\e91b";
+  color: #000;
+}
+.icon-more-vertical:before {
+  content: "\e91c";
+  color: #000;
+}
+.icon-more:before {
+  content: "\e91d";
+  color: #000;
+}
+.icon-more-outline:before {
+  content: "\e91e";
+  color: #000;
+}
+.icon-like:before {
+  content: "\e91f";
+  color: #000;
+}
+.icon-dislike:before {
+  content: "\e920";
+  color: #000;
+}
+.icon-reply:before {
+  content: "\e921";
+  color: #000;
+}
+.icon-close:before {
+  content: "\e922";
+  color: #000;
+}
+.icon-arrow-left:before {
+  content: "\e923";
+  color: #000;
+}
+.icon-arrow_left_2:before {
+  content: "\e924";
+  color: #000;
+}
+.icon-arrow_right_2:before {
+  content: "\e925";
+  color: #000;
+}
+.icon-chevron-down:before {
+  content: "\e926";
+  color: #000;
+}
+.icon-chevron-up:before {
+  content: "\e927";
+  color: #000;
+}
+.icon-caret-left:before {
+  content: "\e928";
+  color: #000;
+}
+.icon-caret-right:before {
+  content: "\e929";
+  color: #000;
+}
+.icon-ic_descending:before {
+  content: "\e92a";
+  color: #000;
+}
+.icon-ic_ascending:before {
+  content: "\e92b";
+  color: #000;
+}
+.icon-up:before {
+  content: "\e92c";
+  color: #000;
+}
+.icon-bullet:before {
+  content: "\e92d";
+  color: #000;
+}
+.icon-radio-filled:before {
+  content: "\e92e";
+  color: #000;
+}
+.icon-bullet-outline:before {
+  content: "\e92f";
+  color: #000;
+}
+.icon-radio:before {
+  content: "\e930";
+  color: #000;
+}
+.icon-checked:before {
+  content: "\e931";
+  color: #000;
+}
+.icon-edit:before {
+  content: "\e932";
+  color: #000;
+}
+.icon-check-square:before {
+  content: "\e933";
+  color: #000;
+}
+.icon-checked-square:before {
+  content: "\e934";
+  color: #000;
+}
+.icon-setting:before {
+  content: "\e935";
+  color: #000;
+}
+.icon-my-account:before {
+  content: "\e936";
+  color: #000;
+}
+.icon-envelope:before {
+  content: "\e937";
+  color: #000;
+}
+.icon-information:before {
+  content: "\e938";
+  color: #000;
+}
+.icon-language:before {
+  content: "\e939";
+  color: #000;
+}
+.icon-lock:before {
+  content: "\e93a";
+  color: #000;
+}
+.icon-logout:before {
+  content: "\e93b";
+  color: #000;
+}
+.icon-question-mark:before {
+  content: "\e93c";
+  color: #000;
+}
+.icon-terms-condition:before {
+  content: "\e93d";
+  color: #000;
+}
+.icon-ic_show:before {
+  content: "\e93e";
+  color: #000;
+}
+.icon-send:before {
+  content: "\e93f";
+  color: #000;
+}
+.icon-register:before {
+  content: "\e940";
+  color: #000;
+}
+.icon-goto-top:before {
+  content: "\e941";
+  color: #000;
+}
+.icon-facebook-square:before {
+  content: "\e942";
+  color: #000;
+}
+.icon-facebook:before {
+  content: "\e943";
+  color: #000;
+}
+.icon-twitter:before {
+  content: "\e944";
+  color: #000;
+}
+.icon-android:before {
+  content: "\e945";
+  color: #000;
+}
+.icon-ios:before {
+  content: "\e946";
+  color: #000;
+}
+.icon-exclamation:before {
+  content: "\e947";
+  color: #000;
+}
+.icon-bubble-text:before {
+  content: "\e948";
+  color: #000;
+}
+.icon-submission-step-1:before {
+  content: "\e949";
+  color: #000;
+}
+.icon-submission-step-2:before {
+  content: "\e94a";
+  color: #000;
+}
+.icon-submission-step-3:before {
+  content: "\e94b";
+  color: #000;
+}
+.icon-submission-step-4:before {
+  content: "\e94c";
+  color: #000;
+}
+.icon-ic_manage-subs:before {
+  content: "\e94d";
+  color: #000;
+}
+.icon-ic_go-plus:before {
+  content: "\e94e";
+  color: #000;
+}
+.icon-plus:before {
+  content: "\e94f";
+  color: #000;
+}
+.icon-loader:before {
+  content: "\e950";
+  color: #000;
+}
+.icon-move:before {
+  content: "\e951";
+  color: #000;
+}
+.icon-person:before {
+  content: "\e952";
+  color: #000;
+}
+.icon-notification:before {
+  content: "\e953";
+  color: #000;
+}
+.icon-notif_comment:before {
+  content: "\e954";
+  color: #000;
+}
+.icon-notif_comic:before {
+  content: "\e955";
+  color: #000;
+}
+.icon-notif_achievement:before {
+  content: "\e956";
+  color: #000;
+}
+.icon-notif_announcement:before {
+  content: "\e957";
+  color: #000;
+}
+.icon-notif_event:before {
+  content: "\e958";
+  color: #000;
+}
+.icon-notif_chapter:before {
+  content: "\e959";
+  color: #000;
+}
+.icon-ic_premium-comics:before {
+  content: "\e95a";
+  color: #000;
+}
+.icon-ic_no-ads:before {
+  content: "\e95b";
+  color: #000;
+}
+.icon-ic_premium-border:before {
+  content: "\e95c";
+  color: #000;
+}
+.icon-ic_premium-early:before {
+  content: "\e95d";
+  color: #000;
+}
+.icon-ic_premium-sticker:before {
+  content: "\e95e";
+  color: #000;
+}
+.icon-ic_point:before {
+  content: "\e95f";
+  color: #000;
+}
+.icon-ic_lock-episode:before {
+  content: "\e960";
+  color: #000;
+}
+.icon-ic_unlocked-episode:before {
+  content: "\e961";
+  color: #000;
+}
+.icon-ic_expired:before {
+  content: "\e962";
+  color: #000;
+}
+.icon-switch-sword:before {
+  content: "\e977";
+}
+.icon-switch-love:before {
+  content: "\e978";
+}
+.icon-icon-male:before {
+  content: "\e979";
+  color: #999;
+}
+.icon-icon-female:before {
+  content: "\e97a";
+  color: #999;
+}
+.icon-ic-new_home:before {
+  content: "\e97c";
+}
+.icon-ic-new_all_comics:before {
+  content: "\e97d";
+}
+.icon-ic-new_schedule:before {
+  content: "\e97e";
+}
+.icon-ic-new_challenge:before {
+  content: "\e97f";
+}
+.icon-ic-new_notif_menu:before {
+  content: "\e980";
+}
+.icon-copy:before {
+  content: "\e981";
+}
